@@ -8,11 +8,17 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+github.com/baezkemp
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
+www.linkedin.com/in/liza-baez-kemp/
+
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+
+I have questions: https://docs.google.com/document/d/1ZatkKA4PXDeUrfNZBZFwsypORT0L2HFgjUp-9Xox5e0/edit?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
