@@ -9,4 +9,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
 
+https://github.com/baezkemp/liftoff-assignments/tree/master/C1-Online_Profiles/PDF/Baez Kemp Programming Resume.pdf
+
 https://github.com/LaunchCodeLiftoffProjects/burrow-web-app
